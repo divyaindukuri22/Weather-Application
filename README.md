@@ -18,9 +18,6 @@ To run this application locally, you need to :
 1. clone this repository
 2. Open the `index.html` file in your web browser.
 
-## API Key
-
-This application uses the OpenWeatherMap API to fetch weather data. You will need to replace `'YOUR_API_KEY'` in the `script.js` file with your actual OpenWeatherMap API key.
 
 ## Demo
 
